@@ -1,10 +1,10 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
-	<groupId>blacklane</groupId>
-	<artifactId>salesforce_webservice</artifactId>
+	<groupId>cwirth</groupId>
+	<artifactId>soap_webservice_wsdl_contract_first</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>Blacklane Salesforce Webservice</name>
+	<name>Hello World Webservice</name>
 
 	<properties>
 		<slf4jVersion>1.7.5</slf4jVersion>
