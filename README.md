@@ -3,14 +3,10 @@ SOAP_webservice_wsdl_contract_first
 
 Simple Hello World Expample for a SOAP Webservice build via contract first approach.
 
-## Approach
-
-This project follows the WSDL first (e.g. contract first) approach. The WSDL is developed as contract between the Salesforce-Implementation-Team and the Blacklane-Backend-Team. Every change concerning the SOAP API is resolved via a changed request at WSDL level.
-
 ## Prerequisites
 
  * Maven 2
- * Java Runtime Environment
+ * JDK
 
 optional:
 
